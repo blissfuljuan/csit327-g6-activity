@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G6
+- Favorite Language: Java
+- One Git Tip Learned: Effectively communicate using Push & Pull request
+- GitHub: @KobeVLM
