@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G6
+- Favorite Language: Java, HTML, Python
+- One Git Tip Learned: Switch branches
+- GitHub: @milayyyyy

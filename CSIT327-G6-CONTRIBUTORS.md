@@ -1,4 +1,3 @@
 ## Contributors
 
-- _Add your name here in Task C_
-- Revilleza, Frederick (**@juantojuan**)
+- Cordero, Camila Rose A. (**@milayyyyy**)
