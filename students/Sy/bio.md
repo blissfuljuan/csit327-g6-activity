@@ -1,6 +1,0 @@
-- Program: BSIT
-- Year: 3rd Year
-- Section: G6
-- Favorite Language: HTML
-- One Git Tip Learned: remember to use git add before git commit
-- GitHub: @blissfuljuan
