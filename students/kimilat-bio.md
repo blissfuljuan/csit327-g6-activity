@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G6
+- Favorite Language: Python
+- One Git Tip Learned: Be aware of which branch is currently active
+- GitHub: @Lemur-Lemur
