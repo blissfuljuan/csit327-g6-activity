@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G6
+- Favorite Language: Java
+- One Git Tip Learned: Use `git status` often and how to `git push`
+- GitHub: @Archinix 
