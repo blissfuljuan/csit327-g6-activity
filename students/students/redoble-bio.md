@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 2nd Year
+- Section: G6
+- Favorite Language: JAVA
+- One Git Tip Learned: N/A
+- Github: @redoblearnoldacabojr-hue
