@@ -1,6 +1,0 @@
-- Program: BSIT
-- Year: 3rd Year
-- Section: G6
-- Favorite Language: Java
-- One Git Tip Learned: Use repositories for output storage
-- GitHub: @Andre-12-maker
