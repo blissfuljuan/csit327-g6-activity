@@ -1,4 +1,5 @@
 ## Contributors
 
-- Resuera, Jefferus (**@resuera123**)
+- _Add your name here in Task C_
 - Revilleza, Frederick (**@juantojuan**)
+- Resuera, Jefferus (**@resuera123**)
