@@ -1,4 +1,4 @@
 ## Contributors
 
--  Sy, Brye kane (**@BryeKaneSy**)
 - Revilleza, Frederick (**@juantojuan**)
+- Sy, Brye kane (**@BryeKaneSy**)
