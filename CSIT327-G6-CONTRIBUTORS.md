@@ -1,3 +1,3 @@
 ## Contributors
 
-- Cordero, Camila Rose A. (**@jmilayyyyy**)
+- Cordero, Camila Rose A. (**@milayyyyy**)
