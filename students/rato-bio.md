@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G6
+- Favorite Language: HMTL
+- One Git Tip Learned: e.g., Use `git status` often
+- GitHub: @Kintoyyy
