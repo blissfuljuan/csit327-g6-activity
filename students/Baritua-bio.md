@@ -1,0 +1,6 @@
+- Program: BSIT-3
+- Year: 3rd Year
+- Section: G6
+- Favorite Language: Java
+- One Git Tip Learned: Use `git status` often and `git branch` to check for current branch being edited.
+- GitHub: @Barits
