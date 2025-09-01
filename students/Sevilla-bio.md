@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G6
+- Favorite: Java
+- One Git Tip Learned: Use `git checkout` to switch branches
+- GitHub: (**@ginmurin**)
