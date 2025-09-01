@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 4th Year
+- Section: G6
+- Favorite Language: Java
+- One Git Tip Learned: Use `git status` often, Proper naming conventions.
+- GitHub: @JohnEdward-Selma
