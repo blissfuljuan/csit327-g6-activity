@@ -1,0 +1,6 @@
+- Program: BSIT     
+- Year: 3rd Year    
+- Section: G6
+- Favorite Language: C languange 
+- One Git Tip Learned: Effectively to use the push and pull 
+- GitHub: @Elaizajane15
