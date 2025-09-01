@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3
+- Section: G6
+- Favorite Language: Java
+- One Git Tip Learned: I learned how to use Github and its commands, especially pushing
+- GitHub: @SecongKoylaaa
