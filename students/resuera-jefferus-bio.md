@@ -3,5 +3,5 @@
 - Year: 3rd Year
 - Section: G6
 - Favorite Language: Java
-- One Git Tip Learned: Learn GitHub
+- One Git Tip Learned: Learn GitHub more
 - GitHub: @resuera123
