@@ -1,0 +1,6 @@
+- Program:  BSIT
+- Year: 3rd Year
+- Section: e.g., G6
+- Favorite Language: Python
+- One Git Tip Learned: e.g., Use `git status` often
+- GitHub: @richellejaducana
