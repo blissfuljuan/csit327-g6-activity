@@ -1,4 +1,5 @@
 ## Contributors
 
-- Kimilat Jr., Romil Joseph B. (**@Lemur-Lemur**)
+- _Add your name here in Task C_
 - Revilleza, Frederick (**@juantojuan**)
+- Kimilat Jr, Romil Joseph (**@Lemur-Lemur**)
