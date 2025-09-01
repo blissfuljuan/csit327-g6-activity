@@ -1,0 +1,6 @@
+- Program: BSIT
+- Year: 3rd Year
+- Section: G6
+- Favorite Language: Kotlin
+- One Git Tip Learned: Always check the status of your repository before committing changes.
+- GitHub: @SLC-kmb
